@@ -2,7 +2,7 @@ var introOne;
 var introTwo;
 
 introOne = 'Hello World';
-introTwo = 'Greetings';
+introTwo = 'Greetings Love';
 
 var elTamale = document.getElementById('tamale');
 elTamale.textContent = introOne;
